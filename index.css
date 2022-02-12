@@ -532,7 +532,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 /* --------------------------------------- */
-/* ----- About ----- */
+/* -----  ----- */
 /* --------------------------------------- */
 
 .about__content {
@@ -610,4 +610,16 @@ body:not(.user-is-tabbing) a:focus {
     .footer {
         padding: var(--gutter-medium) 0;
     } 
+}
+
+#bb{
+    margin-top: 4%;
+}
+
+#clients h3{
+    color: teal;
+}
+#mypic{
+    width: 1200px;
+    height: 500px;
 }
