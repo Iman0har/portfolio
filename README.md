@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://manoharrao13.vercel.app/)
 
-![Portfolio Gif](/images/portfolio.gif)
+
 
 ## Features
 
